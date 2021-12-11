@@ -1,5 +1,5 @@
-<h1 align="center">Hello, My name is Jan</h1>
-<h3 align="center">I am freelance fullstack website developer. I have experience in HTML, CSS, Javascript, Svelte framework, C# and MariaDB!</h3>
+<h1 align="left">Hello, My name is Jan</h1>
+<h3 align="left">I am freelance fullstack website developer. I have experience in HTML, CSS, Javascript, Svelte framework, C# and MariaDB!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h7kz&label=Profile%20views&color=0e75b6&style=flat" alt="h7kz" /> </p>
 
