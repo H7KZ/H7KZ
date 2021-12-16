@@ -9,6 +9,5 @@
 <a href="https://discord.gg/https://discord.gg/xdjgTDgRfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 [![H7KZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=H7KZ&theme=react)](https://github.com/H7KZ/H7KZ)
-[![H7KZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=H7KZ&show_icons=true&theme=react)]
 [![H7KZ's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H7KZ&theme=react)](https://github.com/H7KZ/H7KZ)
 
