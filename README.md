@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/jan-kom%C3%ADnek-36b4b7209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/xdjgTDgRfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
-![H7KZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=H7KZ&count_private=true&theme=react)
-[![H7KZ's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H7KZ&theme=react)](https://github.com/H7KZ/H7KZ)
+
+[![H7KZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=H7KZ)](https://github.com/H7KZ/H7KZ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H7KZ&layout=compact&theme=react)](https://github.com/H7KZ/H7KZ)
+
 
