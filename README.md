@@ -1,5 +1,13 @@
 <h1 align="left">Hello, My name is Jan</h1>
-<h3 align="left">I am freelance fullstack website developer. I have experience in HTML, CSS, Javascript, Svelte framework, C# and MariaDB! <a href="https://H7KZ.pages.dev/">My portfolio</a></h3>
+<h3 align="left">Hello. I am a UI/UX Designer, Front-end Developer & Minecraft Plugin Dev.<br>
+<br>
+I have 2 year experience in HTML, CSS, JS and C#. I build my websites on framework Svelte, which is a great upcoming framework.<br>
+<br>
+For design I use Figma. I can create any design searching from medieval to modern ages.<br>
+<br>
+In my free time I code Minecraft Plugins using Java and Spigot API. I like to work on medium size projects with my team.<br>
+<br>
+<a href="https://kominekjan.cz/">My portfolio</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h7kz&label=Profile%20views&color=0e75b6&style=flat" alt="h7kz" /> </p>
 
