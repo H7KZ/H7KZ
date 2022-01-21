@@ -1,4 +1,4 @@
-<h1 align="left">Hello, My name is Jan</h1>
+<h1 align="left">About me</h1>
 <h3 align="left">Hello. I am a UI/UX Designer, Front-end Developer & Minecraft Plugin Dev.<br>
 <br>
 I have 2 year experience in HTML, CSS, JS and C#. I build my websites on framework Svelte, which is a great upcoming framework.<br>
