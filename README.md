@@ -1,9 +1,7 @@
 <h1 align="left">About me</h1>
-<h3 align="left">Hello. I am a UI/UX Designer, Front-end Developer & Minecraft Plugin Dev.<br>
+<h3 align="left">Hello. I am a Front-end Web Developer & Minecraft Plugin Developer.<br>
 <br>
 I have 2 year experience in HTML, CSS, JS and C#. I build my websites on framework Svelte, which is a great upcoming framework.<br>
-<br>
-For design I use Figma. I can create any design searching from medieval to modern ages.<br>
 <br>
 In my free time I code Minecraft Plugins using Java and Spigot API. I like to work on medium size projects with my team.<br>
 <br>
