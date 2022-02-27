@@ -1,9 +1,9 @@
-<h1 align="left">About me</h1>
-<h3 align="left">Hello. I am a Front-end Web Developer & Minecraft Plugin Developer.<br>
+<h1 align="left">Welcome!</h1>
+<h3 align="left">Hi, I am a freelance Front-end Developer & Minecraft Plugin Developer.<br>
 <br>
-I have 2 year experience in HTML, CSS, JS and C#. I build my websites on framework Svelte, which is a great upcoming framework.<br>
+I have 2 year experience in HTML, CSS, JS and C#. I like to use framework Svelte.<br>
 <br>
-In my free time I code Minecraft Plugins using Java and Spigot API. I like to work on medium size projects with my team.<br>
+In my free time I code Minecraft Plugins using Java and Spigot API.<br>
 <br>
 <a href="https://kominekjan.cz/">My portfolio</a></h3>
 
