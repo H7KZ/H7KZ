@@ -12,7 +12,7 @@ In my free time I code Minecraft Plugins using Java and Spigot API.<br>
 <h3 align="left" padding=0>Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jan-kom%C3%ADnek-36b4b7209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/xdjgTDgRfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+<a href="https://discord.com/users/466867931821637632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 [![H7KZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=H7KZ&theme=react)](https://github.com/H7KZ/H7KZ)
