@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h7kz" alt="h7kz" /></a> </p>
 
-- 🔭 I’m currently working on [Technic Minecraft Server](https://raptorscommunity.net)
+- 🔭 I’m currently working on [Goalspire](https://goalspire.net)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **VueJS**
 
 - 👨‍💻 All of my projects are available at [https://kominekjan.cz](https://kominekjan.cz)
 
-- 💬 Ask me about **Minecraft plugin development**
+- 💬 Ask me about **Fullstack Web Development**
 
 - 📫 How to reach me on discord **H7KZ#5332**
 
