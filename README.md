@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h7kz" alt="h7kz" /></a> </p>
 
-- 🔭 I’m currently working on [Goalspire](https://goalspire.net)
+- 🔭 I’m currently working on [Haxagon](https://haxagon.cz)
 
 - 🌱 I’m currently learning **VueJS**
 
