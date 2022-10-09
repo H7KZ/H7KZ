@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">My name is Jan and I am freelance fullstack website developer. I have experience in HTML, CSS, JS/TS, SvelteKit, MongoDB, C#, Java!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h7kz&label=Profile%20views&color=0e75b6&style=flat" alt="h7kz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h7kz&label=Profile%20views&color=0e75b6&style=flat" alt="h7kz" /> [![wakatime](https://wakatime.com/badge/user/83d08927-be76-47d7-b1af-3eb6882c673a.svg)](https://wakatime.com/@83d08927-be76-47d7-b1af-3eb6882c673a) </p>
 
 - 🔭 I’m currently working on [Haxagon](https://haxagon.cz)
 
