@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VueJS**
 
-- 👨‍💻 All of my projects are available at [KominekJan.cz](https://kominekjan.cz)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/H7KZ?tab=repositories)
 
 - 💬 Ask me about **SvelteKit, Frontend Web Development**
 
