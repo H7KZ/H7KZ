@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jan-kom%C3%ADnek-36b4b7209/), [Portfolio](https://kominekjan.cz)
 
-- 📫 Reach me on discord: **H7KZ#5332**, email: **contact@kominekjan.cz**
+- 📫 Reach me on discord: **[H7KZ#5332](https://kominekjan.cz/social/discord)**, email: **contact@kominekjan.cz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
