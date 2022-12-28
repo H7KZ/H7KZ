@@ -5,17 +5,17 @@
 
 [![wakatime](https://wakatime.com/badge/user/83d08927-be76-47d7-b1af-3eb6882c673a.svg)](https://wakatime.com/@83d08927-be76-47d7-b1af-3eb6882c673a)
 
-- 🔭 I’m currently working on [Haxagon](https://haxagon.cz)
+- 🔭 I’m currently working on [Haxagon](https://haxagon.cz), [Precismo](https://precismo.com) & [Weedly](https://weedly.cz)
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **VueJS**, **ReactJS**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/H7KZ?tab=repositories)
 
-- 💬 Ask me about **SvelteKit, Frontend Web Development**
+- 💬 Ask me about **SvelteKit and frontend development**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jan-kom%C3%ADnek-36b4b7209/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jan-kom%C3%ADnek-36b4b7209/), [Portfolio](https://kominekjan.cz)
 
-- 📫 Reach me on discord **H7KZ#5332**
+- 📫 Reach me on discord: **H7KZ#5332**, email: **contact@kominekjan.cz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
