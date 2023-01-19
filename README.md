@@ -30,6 +30,6 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=h7kz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h7kz)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h7kz&" alt="h7kz" /></p>
