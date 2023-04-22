@@ -17,6 +17,11 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h7kz)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h7kz&" alt="h7kz" /></p>
+<div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=h7kz" alt="h7kz" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=h7kz&" alt="h7kz" />
+  </div>
+  <img style="width: 800px;" src="https://wakatime.com/share/@H7KZ/30c68bdc-2135-4d04-879b-3f6f03c9c76d.svg" alt="h7kz" />
+ </div>
+ 
