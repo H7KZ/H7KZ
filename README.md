@@ -7,7 +7,7 @@
   [![wakatime](https://wakatime.com/badge/user/83d08927-be76-47d7-b1af-3eb6882c673a.svg)](https://wakatime.com/@83d08927-be76-47d7-b1af-3eb6882c673a)
 </div>
 
-- 🔭 I’m currently working on **[Haxagon](https://haxagon.cz)**, **[Precismo](https://precismo.com)** & **[Figurique](https://figurique.com)**
+- 🔭 I’m currently working on **[Precismo](https://precismo.com)** & **[Figurique](https://figurique.com)**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/H7KZ?tab=repositories)**
 
