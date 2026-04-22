@@ -1,1 +1,1 @@
-![Banner 2](https://github.com/user-attachments/assets/dcb86e96-2867-4b4d-8a54-43fa43e67083)
+<img width="2560" height="1280" alt="github-readme_1280x640" src="https://github.com/user-attachments/assets/92cfddae-a2cc-4377-99d7-d402541d6e13" />
